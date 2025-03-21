@@ -1,0 +1,24 @@
+body{
+    background-color:AliceBlue;
+}
+
+h2{
+    text-decoration: underline;
+    color:CornflowerBlue;
+}
+
+.link{
+    color:LightSkyBlue;
+}
+
+#scientific{
+    font-style:italic;
+}
+
+h1{
+    color:DodgerBlue;
+}
+
+img{
+    height="300px"
+}
