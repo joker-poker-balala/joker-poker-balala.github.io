@@ -1,0 +1,55 @@
+body{
+    font-family:Red Hat Mono;
+    background-image:url("bg.png");
+    background-color:#200402;
+    color:#FFFEFE;
+    text-align:center;
+    font-size:20px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.centerimg{
+display: block;
+margin-left: auto;
+margin-right: auto;
+height:400px;
+}
+
+.rimg{
+    display: block;
+    margin-left: auto;
+    height:400px;
+}
+
+.limg{
+    display: block;
+    margin-right: auto;
+    height:400px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td{
+    border: 1px solid #FFFEFE;
+    border-collapse: collapse;
+}
+
+a{
+    color:#FFFEFE;
+}
+
+footer{
+    text-align:center;
+    padding:2em;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
+
+.char{
+    text-align:left;
+}
