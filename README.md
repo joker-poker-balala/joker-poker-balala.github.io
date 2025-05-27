@@ -1,1 +1,0 @@
-yea this is the landing page i think that works for now.. old project is the <a href="https://github.com/joker-poker-balala/joker-poker-balala.github.io/blob/main/animalFactsPage/index.html">animal facts page</a>
